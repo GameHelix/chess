@@ -4,10 +4,6 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Chess — Play Online",
   description: "Play chess against a friend or Stockfish AI. No account needed.",
-  icons: {
-    icon: "/favicon.svg",
-    shortcut: "/favicon.svg",
-  },
 };
 
 export const viewport: Viewport = {
